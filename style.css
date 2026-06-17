@@ -184,7 +184,7 @@
   }
   
   .feature-card:hover{
-    transform:translateY(-30px);
+    transform:translateY(-100px);
   }
   
   .feature-card h3{
